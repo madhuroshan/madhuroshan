@@ -14,8 +14,12 @@
 <img src="https://komarev.com/ghpvc/?username=madhuroshan&style=flat-square&color=blue" alt=""/>
 </div>
 
+### <h3 align="center">Thank You for stopping by my profile! 👋</h3>
 
-### 🧑🏻‍💻Roshan here
+
+### Roshan here 🧑🏻‍💻
+
+
 
 
 
@@ -44,7 +48,7 @@
 
 </div>
 
-### 📫 How to reach me: 
+### 📫 Reach me at: 
  <a href="https://twitter.com/MadhuRoshan95"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.linkedin.com/in/madhu-roshan-917143243/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
@@ -55,3 +59,4 @@ Mail : madhuroshan2102@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuroshan&layout=compact&theme=vision-friendly-dark"/>
 
+## <h1 align="center"> Thank You! </h1> 
