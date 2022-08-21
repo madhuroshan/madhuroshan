@@ -25,7 +25,7 @@
 
 
 
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning **Frontend Web Development**
 - 🔭 I’m currently working on **React and Next.js**
 - 👯 I’m looking to collaborate 
 
