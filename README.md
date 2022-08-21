@@ -1,4 +1,4 @@
-## <h1 align="center"> Hey Devs! 👋</h1> 
+## <h1 align="center"> Hey Devs! <img src="https://camo.githubusercontent.com/a6ffdfd031349ddffc8183251ecb9083e10d93888160f3024f71ac43f3104231/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356386e34764336723962354a334a5a64392f67697068792e676966" width="40px" height="40px"/></h1> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
