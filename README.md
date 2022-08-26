@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Frontend Web Development**
 - 🔭 I’m currently working on **React and Next.js**
-- 👯 Looking to collaborate 
+- 👯 Looking to Collaborate 😁
 
 ### :hammer: Languages and Tools
 
