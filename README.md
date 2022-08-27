@@ -58,7 +58,7 @@ Mail : madhuroshan2102@gmail.com
 
 ### :fire: My Stats
 <img src="http://github-readme-streak-stats.herokuapp.com?user=madhuroshan&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=madhuroshan"/>
+<img src="https://github-readme-stats.vercel.app/api?username=madhuroshan&theme=gotham&show_icons=true"/>
 
 
 
