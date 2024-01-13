@@ -76,6 +76,6 @@ Mail : madhuroshan2102@gmail.com
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuroshan&layout=compact&theme=vision-friendly-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuroshan&layout=compact&theme=dark"/>
 
 ## <h1 align="center"> Thank You! </h1> 
