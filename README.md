@@ -25,8 +25,8 @@
 
 
 
-- 🌱 I’m a **Frontend Web Developer**
-- 🔭 I’m currently working on **Backend Development** using Node.js and Express.js
+- 🌱 I’m a **Fullstack Web Developer**
+- 🔭 Next.js and React Development
 - 👯 Looking to Collaborate 😁
 
 ### :hammer: Languages and Tools
