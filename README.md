@@ -1,4 +1,4 @@
-## <h1 align="center"> Hey Devs! <img src="https://camo.githubusercontent.com/a6ffdfd031349ddffc8183251ecb9083e10d93888160f3024f71ac43f3104231/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356386e34764336723962354a334a5a64392f67697068792e676966" width="40px" height="40px"/></h1> 
+## <h1 align="center"> Hey Devs! </h1> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -38,13 +38,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <br/>
 <br/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node" alt="node" width="40" height="40"/>
-  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
 <br/>
 <br/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
