@@ -60,10 +60,11 @@
 Mail : madhuroshan2102@gmail.com
 
 ### :fire: My Stats
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuroshan&layout=compact&theme=dark"/>
+<div class="display:flex;"> 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=madhuroshan&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api?username=madhuroshan&theme=gotham&show_icons=true&count_private=true&include_all_commits=true"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuroshan&layout=compact&theme=dark"/>
 
 ## <h1 align="center"> Thank You! </h1>
