@@ -19,7 +19,7 @@
 ### Roshan here 🧑🏻‍💻
 
 - 🌱 I’m a **Fullstack Web Developer**
-- 🔭 Next.js and React Development
+- 🔭 Next.js and MERN Stack Development
 - 👯 Looking to Collaborate 😁
 
 ### :hammer: Languages and Tools
