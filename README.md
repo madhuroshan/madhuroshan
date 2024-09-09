@@ -7,8 +7,7 @@
 <div align="center">
  <a href="https://twitter.com/madhuroshann"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" /></a>
   <a href="https://www.linkedin.com/in/madhu-roshan-917143243/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  
-  </div>
+</div>
 
 <div id = "profile-views" align="center">
 <img src="https://komarev.com/ghpvc/?username=madhuroshan&style=flat-square&color=blue" alt=""/>
